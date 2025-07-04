@@ -1,0 +1,16 @@
+customtkinter
+pyttsx3
+speechrecognition
+requests
+faiss-cpu
+sentence-transformers
+PyPDF2
+python-docx
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+whisper
+sounddevice
+scipy
+vosk
+Pillow
